@@ -1,2 +1,2 @@
 # Leap Year
-This repository to get Leep Year using Java script.
+This repository to get Leep Year using JavaScript.
