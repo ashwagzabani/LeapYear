@@ -1,2 +1,2 @@
 # Leap Year
-Get the leep year using JavaScript.
+Get the leap year using JavaScript.
